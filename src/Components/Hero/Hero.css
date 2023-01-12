@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+p{
+    text-align:left;
+    margin-bottom: 5rem;
+    color: black;
+    z-index: 0;
+    display: inline-block;
+    position: relative;
+    bottom: 100rem;
+    color: white;
+    left: 5rem;
+    font-size: 1.2rem;
+}
+h2{
+    color: black;
+    display: inline-block;
+    position: relative;
+    bottom: 70rem;
+    right:16rem;
+    width: 30%;
+    font-size: 2rem;
+    color: white;
+    
+}
+.homeimg{
+    width: 100%;
+}

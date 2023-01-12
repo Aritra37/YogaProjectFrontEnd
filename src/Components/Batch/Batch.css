@@ -1,0 +1,55 @@
+h1{
+    color: white;
+    position:absolute;
+    margin-left: 34rem;
+}
+h3{
+    color: white;
+    position: relative;
+    top: 6rem;
+    left:3rem;
+}
+.img1{
+    width: 45%;
+    position: relative;
+    top: 6rem;
+    padding-right: 3rem;
+    padding-left: 2rem;
+    padding-bottom: 1.5rem;
+}
+.img2{
+    width: 40%;
+    position: relative;
+    bottom:33rem;
+    left: 40rem;
+    padding-top: 5rem;
+   
+}
+.b2{
+    position: absolute;
+    left:45rem;
+    top: 29rem;
+}
+.img3{
+    width: 42%;
+    position: relative;
+    top:17rem;
+    left:15rem;
+    padding-right: 10rem;
+    margin-right: 3rem;
+}
+.b3{
+    position: relative;
+    top:20rem;
+    left: 48rem;
+}
+.img4{
+    width: 50%;
+    position: relative;
+    bottom: 20rem;
+    padding-left: 3rem;
+}
+.b4{
+    position: absolute;
+    top: 70rem;
+}

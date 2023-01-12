@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    padding-top: 2rem;
+    color: white;
+    margin-bottom: 3rem;
+    position: relative;
+    top:1.5rem;
+}
+input{
+    background-color: white;
+    width:30%;
+    font-size: 1.2rem;
+    border: none;
+    margin-top: 4rem;
+    position: relative;
+    top:5rem;
+   
+}
+
+
+.first{
+    margin-left:2rem;
+}
+
+.last{
+    margin-left:25rem;
+}
+
+.email{
+    margin-right:7rem;
+    margin-left:2rem;
+}
+.phone{
+    margin-left:2rem;
+}
+
+.age{
+    margin-left: 18rem;
+}
+
+.gender{
+    margin-left: 25rem;
+}
+
+.height{
+    margin-right:3rem;
+    margin-left: 2rem;
+}
+ 
+.weight{
+    margin-left: 22rem;
+}
+
+.submit{
+    margin:4rem 35rem;
+    width: 12%;
+    height: 10%;
+    align-self: center;
+    position: relative;
+    top:8rem;
+}
