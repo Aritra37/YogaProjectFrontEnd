@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL : 'http://localhost:3300'})
+const API = axios.create({ baseURL : 'http://localhost:3000'})
 
 export const createUser = (newUser)=>API.post('/user',newUser);
 export const updateUser = (id, updatedUser) => API.patch(`/user/${id}`,updatedUser);
